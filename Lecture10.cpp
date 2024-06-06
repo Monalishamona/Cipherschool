@@ -18,7 +18,7 @@ int main(){
 
     
 
-    for(int a =0;a ;a++){
+    for(int a =0;a<20 ;a++){
         cout<<a<<" ";
     }
 
